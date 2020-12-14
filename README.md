@@ -8,12 +8,7 @@ To run, simply do these steps:
 * Wait until the model is nicely loaded (you will see 'Good to go!' on the page)
 * Click upload to upload your image, and click 'Generate Caption' to witness the magic.
 
-This repo is a submission for Bangk!t final group assignment on CNN Tensorflow model, presented to you by:
-* Ratih Aflita, https://github.com/aflita
-* Fahmi Jabbar, https://github.com/fahmij8
-* Adinda Riztia Putri, https://github.com/adindariztia
 
-For source code of model behind this project kindly visit: https://github.com/aflita/image-captioning-flickr8k 
 
-Another quarantine spent awesomely :)
+
 
